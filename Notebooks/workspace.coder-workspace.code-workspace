@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"notebook.pinnedNotebooks": [
+			{
+				"notebookPath": "/data/Shared/Git/nitramic/Data_analitycs/Notebook-0.ipynb",
+				"bookPath": "/data/Shared/Git/nitramic/Data_analitycs"
+			}
+		]
+	}
+}
